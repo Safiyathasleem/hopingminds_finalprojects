@@ -1,0 +1,55 @@
+{
+
+     "vehicles": [
+    
+     {
+    
+     "id": "1",
+    
+    "name": "Vehicle 1",
+    
+    "image": "https://images.pexels.com/photos/810357/pexels-photo-810357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    
+     "description": "Vehicle 1 description"
+    
+    },
+    
+    {
+    
+    "id": "2",
+    
+    "name": "Vehicle 2",
+    
+    "image": "https://images.pexels.com/photos/119435/pexels-photo-119435.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    
+     "description": "Vehicle 2 description"
+    
+     },
+    
+     {
+    
+     "id": "3",
+    
+     "name": "Vehicle 3",
+    
+     "image": "https://images.pexels.com/photos/1335077/pexels-photo-1335077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    
+     "description": "Vehicle 3 description"
+    
+    },
+    
+    {
+    
+    "id": "5",
+    
+     "name": "Vehicle 5",
+    
+     "image": "https://images.pexels.com/photos/1007410/pexels-photo-1007410.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    
+     "description": "Vehicle 5 description"
+    
+     }
+    
+    ]
+    
+}
